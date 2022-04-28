@@ -1,0 +1,572 @@
+@media only screen and (min-width:2048px){
+
+
+}
+@media only screen and (min-width:1600px) and (max-width:2047px){
+
+
+
+}
+@media only screen and (min-width:1440px) and (max-width:1599px){
+}
+@media only screen and (min-width:1150px) and (max-width:1439px){
+
+}
+@media only screen and (min-width:960px) and (max-width:1149px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 30px 0;
+	}
+	
+	
+	
+	
+	
+}
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 11px 0 70px;
+	}
+.bannerCaptionBox {
+    padding-top: 50px;
+    width: 49%;
+	}
+.bannerCaptionBox h1 {
+    font-size: 37px;
+	}
+.client_sec {
+    padding: 13px 0;
+	}
+.intro_sec h2 {
+    font-size: 38px;
+    padding: 0 0 15px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy {
+    padding: 3px 0 0;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+footer {
+    padding: 10px 0;
+	}
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 11px 0 70px;
+	}
+.bannerCaptionBox {
+    padding-top: 30px;
+    width: 53%;
+	}
+.bannerCaptionBox h1 {
+    font-size: 30px;
+	}
+.client_sec {
+    padding: 13px 0;
+	}
+.intro_sec h2 {
+    font-size: 38px;
+    padding: 0 0 15px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy {
+    padding: 3px 0 0;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+footer {
+    padding: 10px 0;
+	}
+.mailForm input[type="submit"] {
+    font-size: 16px;
+    height: 39px;
+    line-height: 18px;
+	}
+.mailForm input[type="text"] {
+    margin-bottom: 20px;
+	}
+.bannerImg {
+    width: 41%;
+	}
+#carousel_1 h3 {
+    font-size: 18px;
+	}
+#carousel_1 .thumbImg img {
+    height: auto;
+    width: 60px;
+	}
+#carousel_1 .thumbImg {
+    line-height: 100px;
+	}
+#carousel_1 h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+#carousel_2 li img {
+    height: 40px;
+	}
+.clientLogo {
+    line-height: 50px;
+	}
+.logo {
+    width: 220px;
+	}
+.top_right {
+    padding: 16px 0 0;
+	}
+.top_right a {
+    font-size: 15px;
+    line-height: 40px;
+	}
+
+
+
+
+
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 11px 0 70px;
+	}
+.bannerCaptionBox {
+    padding-top: 0;
+    width: 59%;
+	}
+.bannerCaptionBox h1 {
+    font-size: 27px;
+	}
+.client_sec {
+    padding: 13px 0;
+	}
+.intro_sec h2 {
+    font-size: 29px;
+    padding: 0 0 7px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy img {
+    height: auto;
+    width: 100px;
+	}
+.apprBy {
+    padding: 3px 0 0;
+	width: 25%;
+	}
+.ftLogo img {
+    height: auto;
+    width: 90px;
+	}
+footer {
+    padding: 6px 0;
+	}
+.mailForm input[type="submit"] {
+    border-radius: 5px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 20px;
+	}
+.mailForm input[type="text"] {
+    font-size: 17px;
+    line-height: 42px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+	}
+.bannerImg {
+    width: 36%;
+	}
+#carousel_1 h3 {
+    font-size: 18px;
+	}
+#carousel_1 .thumbImg img {
+    height: auto;
+    width: 60px;
+	}
+#carousel_1 .thumbImg {
+    line-height: 100px;
+	}
+#carousel_1 h3 {
+    font-size: 15px;
+    font-weight: 500;
+	}
+#carousel_2 li img {
+    height: 40px;
+	}
+.clientLogo {
+    line-height: 50px;
+	}
+.logo {
+    width: 210px;
+	}
+.top_right {
+    padding:15px 0 0;
+	}
+.top_right a {
+    font-size: 12px;
+    line-height: 35px;
+    padding: 0 13px;
+	border-radius: 4px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 19px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 15px;
+    padding: 0 0 3px;
+	}
+.ftLogo {
+    margin: 2px 0 0;
+	width: 25%;
+	}
+.banner {
+    padding: 0 0 50px;
+	}	
+.copyright {
+    width: 50%;
+	}
+.copyright p {
+    font-size: 12px;
+    padding-top: 1px;
+	}
+
+
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 11px 0 70px;
+	}
+.bannerCaptionBox {
+    box-sizing: border-box;
+    float: none;
+    padding-top: 0;
+    text-align: center;
+    width: 100%;
+	}
+.bannerCaptionBox h1 {
+    display: block;
+    font-size: 27px;
+	}
+.client_sec {
+    padding: 13px 0;
+	}
+.intro_sec h2 {
+    font-size: 25px;
+    padding: 0 0 3px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy img {
+    height: auto;
+    width: 100px;
+	}
+.apprBy {
+    padding: 3px 0 0;
+    position: absolute;
+    right: 12px;
+    top: 3px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 90px;
+	}
+footer {
+    padding: 6px 0;
+	}
+.mailForm input[type="submit"] {
+    border-radius: 5px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    margin: 0 auto;
+    padding: 0 20px;
+	}
+.mailForm input[type="text"] {
+    border-width: 1px;
+    font-size: 14px;
+    line-height: 38px;
+    margin-bottom: 20px;
+    padding: 0 13px;
+	}
+.bannerImg {
+    display: none;
+	}
+#carousel_1 h3 {
+    font-size: 18px;
+	}
+#carousel_1 .thumbImg img {
+    height: auto;
+    width: 60px;
+	}
+#carousel_1 .thumbImg {
+    line-height: 100px;
+	}
+#carousel_1 h3 {
+    font-size: 13px;
+    font-weight: 500;
+	}
+#carousel_2 li img {
+    height: 40px;
+	}
+.clientLogo {
+    line-height: 50px;
+	}
+.logo {
+    width: 135px;
+	}
+.top_right {
+    padding:8px 0 0;
+	}
+.top_right a {
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 30px;
+    padding: 0 9px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 19px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 15px;
+    padding: 0 0 3px;
+	}
+.ftLogo {
+    margin: 2px 0 0;
+	}
+.banner {
+    padding: 0 0 50px;
+	}	
+.intro_sec {
+    padding: 40px 0 50px;
+	}
+.intro_sec p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+	}
+#carousel_1 {
+    margin-top: 25px;
+    padding: 0;
+	}
+.copyright {
+    display: block;
+    float: none;
+    width: 100%;
+	}
+.copyright p {
+	font-size: 13px;
+    padding: 27px 0 0;
+	}
+
+
+
+
+
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.headTop {
+    padding: 11px 0 70px;
+	}
+.bannerCaptionBox {
+    box-sizing: border-box;
+    float: none;
+    padding-top: 0;
+    text-align: center;
+    width: 100%;
+	}
+.bannerCaptionBox h1 {
+    display: block;
+    font-size: 27px;
+	}
+.client_sec {
+    padding: 13px 0;
+	}
+.intro_sec h2 {
+    font-size: 21px;
+    padding: 0 0 3px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 120px;
+	}
+.apprBy img {
+    height: auto;
+    width: 100px;
+	}
+.apprBy {
+    padding: 3px 0 0;
+    position: absolute;
+    right: 12px;
+    top: 3px;
+	}
+.ftLogo img {
+    height: auto;
+    width: 90px;
+	}
+footer {
+    padding: 6px 0;
+	}
+.mailForm input[type="submit"] {
+    border-radius: 5px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    margin: 0 auto;
+    padding: 0 20px;
+	}
+.mailForm input[type="text"] {
+    border-width: 1px;
+    font-size: 14px;
+    line-height: 38px;
+    margin-bottom: 20px;
+    padding: 0 13px;
+	}
+.bannerImg {
+    display: none;
+	}
+#carousel_1 h3 {
+    font-size: 18px;
+	}
+#carousel_1 .thumbImg img {
+    height: auto;
+    width: 60px;
+	}
+#carousel_1 .thumbImg {
+    line-height: 100px;
+	}
+#carousel_1 h3 {
+    font-size: 13px;
+    font-weight: 500;
+	}
+#carousel_2 li img {
+    height: 40px;
+	}
+.clientLogo {
+    line-height: 50px;
+	}
+.logo {
+    padding: 4px 0 0;
+    width: 115px;
+	}
+.top_right {
+    padding:8px 0 0;
+	}
+.top_right a {
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 30px;
+    padding: 0 9px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 19px;
+	}
+.bannerCaptionBox h1 span {
+    font-size: 15px;
+    padding: 0 0 3px;
+	}
+.ftLogo {
+    margin: 2px 0 0;
+	}
+.banner {
+    padding: 0 0 50px;
+	}	
+.intro_sec {
+    padding: 40px 0 50px;
+	}
+.intro_sec p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+	}
+#carousel_1 {
+    margin-top: 25px;
+    padding: 0;
+	}
+.copyright {
+    display: block;
+    float: none;
+    width: 100%;
+	}
+.copyright p {
+	font-size: 11px;
+    padding: 30px 0 0;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
